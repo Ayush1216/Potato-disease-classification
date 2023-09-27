@@ -7,3 +7,7 @@ The model achieves an accuracy of 98.96% on validation data and 99.47% accuracy 
 </br> 
 Here are some of the test data results
 ![download](https://github.com/Ayush1216/Potato-disease-classification/assets/117370033/1c8a951d-2bf2-4d14-a09a-a6291198fc0b)
+</br>
+</br>
+Here is the link to the dataset used </br>
+https://drive.google.com/drive/folders/1pQM99hKL5EAGgt4J7HHKfGG3leFowAP_?usp=drive_link
